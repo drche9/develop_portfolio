@@ -21,5 +21,11 @@
     <ClCompile Include="portfolio01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="portfolio02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
