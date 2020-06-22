@@ -27,5 +27,29 @@
     <ClCompile Include="portfolio03.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="portfolio04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio09.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
