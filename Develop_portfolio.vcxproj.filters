@@ -51,5 +51,53 @@
     <ClCompile Include="portfolio11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="portfolio12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio17.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio19.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfoilo20.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio21.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio22.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio23.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio24.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio25.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio26.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="시발.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
