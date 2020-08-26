@@ -1,2 +1,5 @@
 ﻿  portfolio27.c
+c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio27.c(55): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio27.c(64): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio27.c(73): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
   Develop_portfolio.vcxproj -> C:\Users\admin\source\repos\2020year_git\2020year_git\Develop_portfolio\Debug\Develop_portfolio.exe
