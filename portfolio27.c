@@ -1,3 +1,6 @@
+
+//1Â÷ ¹è¿­
+
 #include<stdio.h>
 int main() {
 	/*char index[3] = { 'A','B','C'};

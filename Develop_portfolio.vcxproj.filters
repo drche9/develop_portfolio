@@ -111,5 +111,11 @@
     <ClCompile Include="portfolio27.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="multidimensional_array00.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="floatingPoint.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
