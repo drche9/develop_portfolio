@@ -117,5 +117,8 @@
     <ClCompile Include="floatingPoint.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="portfolio28.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
