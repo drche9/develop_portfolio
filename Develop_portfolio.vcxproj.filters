@@ -99,9 +99,6 @@
     <ClCompile Include="portfolio26.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="시발.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="PointerLearn00.c">
       <Filter>소스 파일\Pointer</Filter>
     </ClCompile>
@@ -118,6 +115,21 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="portfolio28.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="protfolio30.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio31.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio32.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="portfolio33.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
