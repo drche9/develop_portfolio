@@ -9,8 +9,6 @@
 time_t start, end;
 
 int mapView[Y][X] = {
-	{0,0,0,0,0,0, },
-	{0,0,0,0,0,0, },
 	{1,1,1,0,0,0, },
 	{1,1,1,0,0,0, },
 	{1,1,1,0,0,0, },
@@ -21,6 +19,15 @@ int gotoXY(int x, int y) {
 	COORD pos = { x * 2 ,y };
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
+
+int random() {
+	srand(time(NULL));
+	while (1) {
+		int xRandom = (rand() % 2);
+		int yRandom = (rand() % 2);
+	}
+}
+
 
 void CursorManager(char show)/*Ä¿¼­¼û±â±â*/{
 	HANDLE hConsole;
@@ -82,9 +89,10 @@ int main() {
 	srand((unsigned int)time(NULL));
 	while (1){
 		start = clock();
+		random();
 		render();
 		CursorManager(0);
-		//mapManager();
+		mapManager();
 	}
 	end = clock();
 }

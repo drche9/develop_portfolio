@@ -1,5 +1,7 @@
 ﻿  portfolio33.c
-c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio33.c(72): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio33.c(23): warning C4716: 'gotoXY': 값을 반환해야 합니다.
-c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio33.c(64): warning C4716: 'node': 값을 반환해야 합니다.
+c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio33.c(24): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio33.c(83): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio33.c(33): warning C4716: 'random': 값을 반환해야 합니다.
+c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio33.c(21): warning C4716: 'gotoXY': 값을 반환해야 합니다.
+c:\users\admin\source\repos\2020year_git\2020year_git\develop_portfolio\develop_portfolio\portfolio33.c(75): warning C4716: 'node': 값을 반환해야 합니다.
   Develop_portfolio.vcxproj -> C:\Users\admin\source\repos\2020year_git\2020year_git\Develop_portfolio\Debug\Develop_portfolio.exe
